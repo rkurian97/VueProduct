@@ -1,4 +1,4 @@
-# final_exam
+# final_product
 
 ## Project setup
 ```
